@@ -15,7 +15,7 @@ import { UserContext } from "../context/useContext";
 import ContainerPage from "../components/ContainerPage";
 
 export default function Iphone() {
-  document.title = "restaurant";
+  document.title = "ecommerce";
 
   //modal Login
   const [show, setShow] = useState(false);
